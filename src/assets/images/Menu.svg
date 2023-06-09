@@ -1,0 +1,6 @@
+<svg onClick={()=>setShow(!show)} className="h-14 p-1 text-[#F472B6] hover:text-orange bg-orange hover:bg-[#FF5722] rounded-lg"  viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 16H37" stroke="#F97316" stroke-width="3" stroke-linecap="round"/>
+<path d="M11 27H37" stroke="#FF5722" stroke-width="3" stroke-linecap="round"/>
+<path d="M11 39H37" stroke="#F97316" stroke-width="3" stroke-linecap="round"/>
+</svg>
+
