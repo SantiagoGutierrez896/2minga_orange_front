@@ -1,6 +1,6 @@
 import logo from "../assets/images/Logo.png"
 import profile from "../assets/images/profile_Lucas.png"
-// voy min 1:12:31 https://www.youtube.com/watch?v=6vPEaCGBwZM
+
 export default function Display({ options,show,setShow }) {
 
     let name = 'Lucas Ezequiel Silva'
